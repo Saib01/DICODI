@@ -22,8 +22,6 @@ _2. Mediante el menu de navegacion de processing buscamos el boton herramientas/
 
 _3. Los datos obtenidos de la plataforma se encontraran en un archivo txt con el nombre de "Codigo.txt"._
 
-_4. Funcionamiento de la plataforma: [Video](https://drive.google.com/drive/folders/1kpIAFlX3YW0mUK1KyT0ESUFcUom7C8u-?usp=sharing)_.
-
 ## Despliegue 📦
 
 _Para poder desplegar el proyecto deberas ejecutar el portable con el sistema operativo de la computadora en la que vas a diseñar el controlador o clonar el repositorio y abriendo el archivo "DICODI.pde" podras correr el programa para diseñar el controlador._
